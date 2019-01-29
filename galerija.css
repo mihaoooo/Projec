@@ -1,0 +1,33 @@
+/*CSS Document*/
+body {
+
+background: linear-gradient(to left top, red,black) fixed;
+
+
+}
+
+
+.categories ul {
+  text-align: center;
+  list-style-type: none;
+  margin: auto;
+  padding:auto;
+  overflow: hidden;
+  background-color: #000;
+}
+.categories li {
+    display:inline-block;
+    padding: 16px;
+    text-decoration: none;
+  }
+  a:hover{
+    color:orange;
+  }
+a{
+color:white;
+}
+h2{
+  color: #c8c8c8;
+  font-family: "Arial", Times, serif;
+  font-size: 14px;
+}

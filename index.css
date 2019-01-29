@@ -1,0 +1,39 @@
+/*CSS Document*/
+body {
+
+background: linear-gradient(to left top, red,black) fixed;
+}
+
+h1{
+  color: #c8c8c8;
+  font-family: "Arial", Times, serif;
+  font-size: 14px;
+  padding-left:15%;
+}
+
+a:hover{
+ color:orange;
+}
+
+.categories ul {
+ text-align: center;
+ list-style-type: none;
+ margin: auto;
+ padding:auto;
+ overflow: hidden;
+ background-color: #000;
+}
+.categories li {
+   display:inline-block;
+   padding: 16px;
+   text-decoration: none;
+ }
+
+.lijevo{
+  width: 400px;
+  height: 400px;
+
+
+}
+
+.lijevo1
